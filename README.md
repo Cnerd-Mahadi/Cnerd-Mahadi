@@ -12,16 +12,14 @@ You can use the website to generate badges: https://shields.io/
 
 **About Me:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💻 A Full Stack Developer;
-- 🎓 Completed BSc in Computer Science and Engineering;
-- 🛠️ Experienced in building robust projects from scratch; 
-- ✨ Proficient in React, Typescript, Laravel, and Firebase;
-- 📍 Successfully implemented a thesis-based project [Project LITOL](https://github.com/Cnerd-Mahadi/litol_app);
-- 🎀 Passionate about clean coding and industry best practices;
-- 🧷 Portfolio: [Click Here](https://cnerdfolio.vercel.app/); 
+- 💻 A Full Stack Developer
+- 🎓 Completed BSc in Computer Science and Engineering
+- 🛠️ Experienced in building robust projects from scratch
+- ✨ Proficient in React, Typescript, Laravel, and Firebase
+- 📍 Successfully implemented a thesis-based project [Project LITOL](https://github.com/Cnerd-Mahadi/litol_app)
+- 🎀 Passionate about clean coding and industry best practices
+- 🧷 Portfolio: [Click Here](https://cnerdfolio.vercel.app/)
 
 
 ## Tech Stack:
@@ -51,5 +49,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Yarn" alt="Yarn" width="40px" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png">|<img title="Vite" alt="Vite" width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35">
 |--|--|--|--|
+
+
 
 <br>
