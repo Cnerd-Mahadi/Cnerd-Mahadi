@@ -66,17 +66,6 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnerd-Mahadi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cnerd-Mahadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://cnerdfolio.vercel.app)
@@ -88,8 +77,4 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 
 <p align="center">
   <i>💡 "Building scalable solutions, one commit at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cnerd-Mahadi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
