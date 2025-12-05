@@ -8,12 +8,12 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at **Bevy Commerce** (June 2024 - Present)
-- 🎓 B.Sc. in Computer Science & Engineering from **American International University-Bangladesh**
-- 🛍️ Specialized in **Shopify app development** and **e-commerce solutions**
-- 🔧 Building production-grade applications with **React**, **Next.js**, **Node.js**, and **MongoDB**
-- 🌱 Currently exploring **microservices architecture** and **system design**
-- 📍 Based in Dhaka, Bangladesh
+💼 Full Stack Developer at **Bevy Commerce** (June 2024 - Present)
+🎓 B.Sc. in Computer Science & Engineering from **American International University-Bangladesh**
+🔧 Building production-grade applications with **React**, **Next.js**, **Node.js**, and **MongoDB**
+🛍️ Specialized in **Shopify app development** and **e-commerce solutions**
+🌱 Currently exploring **microservices architecture** and **system design**
+📍 Based in Dhaka, Bangladesh
 
 ---
 
