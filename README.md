@@ -9,7 +9,7 @@ I'm a passionate full-stack developer specializing in building scalable web appl
 ## 🚀 About Me
 
 - 💼 Full Stack Developer at **Bevy Commerce** (June 2024 - Present)
-- 🎓 B.Sc. in Computer Science & Engineering from **American International University-Bangladesh** (CGPA: 3.95/4.00)
+- 🎓 B.Sc. in Computer Science & Engineering from **American International University-Bangladesh**
 - 🛍️ Specialized in **Shopify app development** and **e-commerce solutions**
 - 🔧 Building production-grade applications with **React**, **Next.js**, **Node.js**, and **MongoDB**
 - 🌱 Currently exploring **microservices architecture** and **system design**
