@@ -1,4 +1,4 @@
-# Hi there, I'm Mahbubur Rahman Mahadi 👋
+# Hi there, I'm Cnerd Mahadi 👋
 
 ### Full Stack Developer | Software Engineer
 
