@@ -1,23 +1,22 @@
 # Hey, I'm Cnerd Mahadi 👋
 
-Full stack developer based in Dhaka, passionate about building scalable production systems and exploring where AI fits into modern development. Currently shipping apps at Bevy Commerce while continuously leveling up on system design, backend architecture, and AI-driven development.
+A full stack engineer who loves building scalable systems and writing clean code. Into AI-driven development and always up for good engineering conversations.
 
 ---
 
 ## Highlights
 
-- Built the entire billing & subscription system for **OrderPilot** - dynamic per-location pricing, Shopify Billing API, coupon engine, and a type-safe resource table with URL-synced state
-- Replaced Shopify's default search with **Typesense** in Bevy AI Search - sub-50ms queries, typo-tolerant, across catalogs with thousands of SKUs
-- Built **Bevy Sync** - bidirectional Shopify to QuickBooks sync using webhooks and message queues, handles concurrent updates and conflict resolution
-- Architected **Bevy Affiliate** from scratch - multi-tier commission calculations and automated payout processing for Shopify merchants
+- 🏗️ **OrderPilot** - built the full billing & subscription system with dynamic pricing, coupon engine, and Shopify Billing API
+- ⚡ **Bevy AI Search** - replaced Shopify's default search with Typesense, sub-50ms queries across thousands of SKUs
+- 🔄 **Bevy Sync** - bidirectional Shopify to QuickBooks sync with webhook-driven conflict resolution
+- 💸 **Bevy Affiliate** - architected affiliate management with multi-tier commissions and automated payouts
 
 ---
 
 ## Side Projects
 
-**[BeatRos](https://github.com/Cnerd-Mahadi/BeatRos)** - full e-commerce platform built with microservices. Four independent services behind an API gateway, Stripe checkout with webhook verification, async inventory updates, and guest carts that merge on login.
-
-**[LITOL](https://github.com/Cnerd-Mahadi/litol_app)** - active learning platform I built for my undergrad thesis. Cornell note-taking, visual mind mapping with ReactFlow, and a peer teaching feature with live Google Meet sessions.
+- 🛒 **[BeatRos](https://github.com/Cnerd-Mahadi/BeatRos)** - microservices e-commerce platform with Stripe, API gateway, and async inventory management
+- 📚 **[LITOL](https://github.com/Cnerd-Mahadi/litol_app)** - active learning platform with Cornell notes, mind mapping, and peer teaching via Google Meet
 
 ---
 
