@@ -1,6 +1,6 @@
 # Hey, I'm Cnerd Mahadi 👋
 
-A full stack engineer who loves building scalable systems and writing clean code. Into AI-driven development and always up for good engineering conversations.
+Hi, I'm Cnerd Mahadi - a full stack engineer who loves building scalable systems and writing clean code 🏗️. Into AI-driven development 🤖 and always up for good engineering conversations 💬.
 
 ---
 
