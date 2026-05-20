@@ -6,10 +6,9 @@ Hi, I'm Cnerd Mahadi - a full stack engineer who loves building scalable systems
 
 ## Highlights
 
+- 💸 **Bevy Affiliate** - architected affiliate management with multi-tier commissions and automated payouts
 - 🏗️ **OrderPilot** - built the full billing & subscription system with dynamic pricing, coupon engine, and Shopify Billing API
 - ⚡ **Bevy AI Search** - replaced Shopify's default search with Typesense, sub-50ms queries across thousands of SKUs
-- 🔄 **Bevy Sync** - bidirectional Shopify to QuickBooks sync with webhook-driven conflict resolution
-- 💸 **Bevy Affiliate** - architected affiliate management with multi-tier commissions and automated payouts
 
 ---
 
