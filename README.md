@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahadi 👋</h1>
+<h1 align="center">Hi, I'm Cnerd Mahadi 👋</h1>
 
 <p align="center">
   Full-Stack AI Engineer &nbsp;·&nbsp; Dhaka, Bangladesh
