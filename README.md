@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cnerd Mahadi 👋</h1>
+<h1 align="center">Hi, I'm Mahadi 👋</h1>
 
 <p align="center">
   Full-Stack AI Engineer &nbsp;·&nbsp; Dhaka, Bangladesh
@@ -95,13 +95,13 @@ On the AI side I work with LLM APIs and build RAG pipelines on top of vector sea
 
 ## 🚀 Things I've built
 
-### [LITOL](https://github.com/Cnerd-Mahadi/litol_app) &nbsp;·&nbsp; [live ↗](https://litol.vercel.app)
+### [LITOL](https://github.com/Cnerd-Mahadi/litol_app) &nbsp;·&nbsp; [🌐](https://litol.vercel.app)
 
 An AI study platform used by 60+ students. You write notes with recall cues and get quizzes generated from your own material. Cues are embedded into pgvector and pulled back by similarity search, so the model asks about what you actually wrote instead of what it happens to know.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `pgvector` `Vercel AI SDK` `Gemini` `Bun`
 
-### [BeatRos](https://github.com/Cnerd-Mahadi/BeatRos) &nbsp;·&nbsp; [live ↗](https://beatros.vercel.app)
+### [BeatRos](https://github.com/Cnerd-Mahadi/BeatRos) &nbsp;·&nbsp; [🌐](https://beatros.vercel.app)
 
 A microservices e-commerce platform. Four services behind an API gateway, Stripe checkout with webhook verification, and guest carts that survive across sessions. Stock release and confirmation emails run as background jobs, so checkout stays fast.
 
