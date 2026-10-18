@@ -6,7 +6,7 @@ Curious by default. I build web apps, backend systems, and things powered by AI.
 
 I like figuring out how things work, then making them work better. These days, that means commerce software, background jobs, payment flows, and AI features that do something useful.
 
-[Portfolio](https://cnerdfolio.vercel.app) · [<img src="assets/icons/linkedin.svg" width="18" height="18" alt="" /> LinkedIn](https://linkedin.com/in/cnerd-mahadi) · [<img src="assets/icons/envelope-fill.svg" width="18" height="18" alt="" /> Email](mailto:mahadidroid@gmail.com) · [Résumé](https://drive.google.com/file/d/17UZ7nnFuZ4eWBq0iiNUgvZDqXjGnnXIa/view?usp=sharing)
+[Portfolio](https://cnerdfolio.vercel.app) · [<img align="middle" src="assets/icons/linkedin.svg" width="18" height="18" alt="" /> LinkedIn](https://linkedin.com/in/cnerd-mahadi) · [<img align="middle" src="assets/icons/envelope-fill.svg" width="18" height="18" alt="" /> Email](mailto:mahadidroid@gmail.com) · [Résumé](https://drive.google.com/file/d/17UZ7nnFuZ4eWBq0iiNUgvZDqXjGnnXIa/view?usp=sharing)
 
 ## What I've been working on
 
@@ -29,7 +29,7 @@ Your notes, turned into quizzes. A study app used by **60+ students**, with note
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `pgvector` `Vercel AI SDK` `Gemini`
 
-[Try it out](https://litol.vercel.app) · [<img src="assets/icons/github.svg" width="16" height="16" alt="" /> Source code](https://github.com/Cnerd-Mahadi/litol_app)
+[Try it out](https://litol.vercel.app) · [<img align="middle" src="assets/icons/github.svg" width="16" height="16" alt="" /> Source code](https://github.com/Cnerd-Mahadi/litol_app)
 
 ### [BeatRos](https://github.com/Cnerd-Mahadi/BeatRos)
 
@@ -37,24 +37,24 @@ An online store with plenty happening behind the checkout button. Commerce servi
 
 `Next.js` `Express` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Stripe` `QStash` `Docker`
 
-[Try it out](https://beatros.vercel.app) · [<img src="assets/icons/github.svg" width="16" height="16" alt="" /> Source code](https://github.com/Cnerd-Mahadi/BeatRos)
+[Try it out](https://beatros.vercel.app) · [<img align="middle" src="assets/icons/github.svg" width="16" height="16" alt="" /> Source code](https://github.com/Cnerd-Mahadi/BeatRos)
 
 ## My usual toolbox
 
 <p>
-<img src="assets/icons/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
-<img src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp;
-<img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
-<img src="assets/icons/nextjs.svg" width="32" height="32" alt="Next.js" title="Next.js" /> &nbsp;
-<img src="assets/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" /> &nbsp;
-<img src="assets/icons/tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
+<img align="middle" src="assets/icons/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
+<img align="middle" src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp;
+<img align="middle" src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
+<img align="middle" src="assets/icons/nextjs.svg" width="32" height="32" alt="Next.js" title="Next.js" /> &nbsp;
+<img align="middle" src="assets/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" /> &nbsp;
+<img align="middle" src="assets/icons/tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
 <br />
-<img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-<img src="assets/icons/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB" /> &nbsp;
-<img src="assets/icons/redis.svg" width="32" height="32" alt="Redis" title="Redis" /> &nbsp;
-<img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /> &nbsp;
-<img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
-<img src="assets/icons/firebase.svg" width="32" height="32" alt="Firebase" title="Firebase" />
+<img align="middle" src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+<img align="middle" src="assets/icons/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB" /> &nbsp;
+<img align="middle" src="assets/icons/redis.svg" width="32" height="32" alt="Redis" title="Redis" /> &nbsp;
+<img align="middle" src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /> &nbsp;
+<img align="middle" src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
+<img align="middle" src="assets/icons/firebase.svg" width="32" height="32" alt="Firebase" title="Firebase" />
 </p>
 
 | Area | Tools |
