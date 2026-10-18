@@ -1,8 +1,12 @@
-# README icons
+# Profile icon sources
 
-Phosphor Icons, fill weight. MIT license; see LICENSE.txt.
+Technology and LinkedIn logos: Devicon original SVGs.
+https://github.com/devicons/devicon/tree/master/icons
+License: DEVICON-LICENSE.txt.
 
-Source: https://github.com/phosphor-icons/core/tree/main/assets/fill
-Retrieved: 2026-10-18.
+GitHub and email icons: Bootstrap Icons.
+https://github.com/twbs/icons/tree/main/icons
+License: BOOTSTRAP-LICENSE.txt.
+The Bootstrap fill color is a neutral gray visible on light and dark backgrounds.
 
-Original vector geometry is preserved. Root fill colors are customized for this profile.
+Retrieved: 2026-10-18. Original vector geometry is preserved.
