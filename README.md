@@ -1,114 +1,58 @@
-<h1 align="center">Hi, I'm Cnerd Mahadi 👋</h1>
+# Hey, I'm Cnerd Mahadi 👋
 
-<p align="center">
-  Full-Stack AI Engineer &nbsp;·&nbsp; Dhaka, Bangladesh
-</p>
+**Full-stack developer · Dhaka, Bangladesh**
 
-<p align="center">
-  <a href="https://cnerdfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/cnerd-mahadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mahadidroid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+Curious by default. I build web apps, backend systems, and things powered by AI.
 
----
+I like figuring out how things work, then making them work better. These days, that means commerce software, background jobs, payment flows, and AI features that do something useful.
 
-I build AI-powered products end to end, from schema design through to the UI.
+[Portfolio](https://cnerdfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/cnerd-mahadi) · [Email](mailto:mahadidroid@gmail.com) · [Résumé](https://drive.google.com/file/d/17UZ7nnFuZ4eWBq0iiNUgvZDqXjGnnXIa/view?usp=sharing)
 
-Most of my work sits in the backend: async job systems, payment and refund flows, financial correctness in ledger systems, and third-party integrations. I've owned SaaS products from the first migration to the last screen.
+## What I've been working on
 
-On the AI side I work with LLM APIs and build RAG pipelines on top of vector search.
+At **Bevy Commerce**, I'm a **Full Stack Developer** building Shopify tools and the systems behind them.
 
----
+- Built affiliate tools from database schemas to referrals, commissions, and dashboards.
+- Replaced full ledger scans with denormalized balances and nightly reconciliation.
+- Built subscription billing with trials, coupons, paywalls, and Redis-backed checks.
+- Protected QuickBooks payments and refunds with customer locks and deduplication.
+- Split search and recommendation work into retryable jobs for each shop.
+- Built and owned PDF generation for orders, invoices, purchase orders, and quotes.
 
-## 💼 Things I've worked on
+Before that, at **AISEO.ai**, I helped move AI content tools from vanilla JavaScript to Next.js and turned Figma designs into responsive React interfaces.
 
-**Bevy Commerce** &nbsp;·&nbsp; *Full Stack Developer, 2024 – present*
+## Things I've built
 
-- Owned an affiliate payout platform end to end. Took the balance ledger from full scans to a denormalized column with nightly reconciliation, and redesigned a recommendation pipeline from one long job into a per-shop fan-out that survives failure.
-- Built a shared PDF pipeline for sales orders, invoices, POs, and quotes, then split the rendering into its own service running headless Chromium through Playwright.
-- Own the UX direction for orders and purchase orders, deciding the interface design and guiding the team on implementation.
+### [LITOL](https://github.com/Cnerd-Mahadi/litol_app)
 
-**AISEO.ai** &nbsp;·&nbsp; *Full Stack Developer Associate, 2023 – 2024*
+Your notes, turned into quizzes. A study app used by **60+ students**, with notes, review cards, editable AI summaries, and score history. Gemini generates quizzes using material retrieved from your notes through pgvector similarity search.
 
-- Worked on AI content generation tools, moving the product frontend from vanilla JavaScript to a modular Next.js architecture.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `pgvector` `Vercel AI SDK` `Gemini`
 
----
+[Try it out](https://litol.vercel.app) · [Source code](https://github.com/Cnerd-Mahadi/litol_app)
 
-## 🛠 Tech I work with
+### [BeatRos](https://github.com/Cnerd-Mahadi/BeatRos)
 
-**Languages**
+An online store with plenty happening behind the checkout button. Commerce services sit behind an API gateway, guest carts merge on sign-in, and Stripe checkout connects to stock reservations and background payment-recovery jobs.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+`Next.js` `Express` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Stripe` `QStash` `Docker`
 
-**Frontend**
+[Try it out](https://beatros.vercel.app) · [Source code](https://github.com/Cnerd-Mahadi/BeatRos)
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" alt="Remix" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+## My usual toolbox
 
-**Backend**
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, SQL |
+| Frontend | React, Next.js, Remix, Tailwind CSS |
+| Backend | Node.js, Express, Prisma, REST APIs, GraphQL, BullMQ, QStash |
+| Data | PostgreSQL, MongoDB, Redis, Firebase |
+| Integrations | Shopify, QuickBooks Online, Stripe, Typesense |
+| AI applications | Vercel AI SDK, Gemini, embeddings, pgvector, RAG |
+| Development | Git, Docker, Heroku, GitHub Actions, Claude, Cursor |
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/BullMQ-DD2C00?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/QStash-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash QStash" />
-</p>
+## Let's connect
 
-**Databases**
+I'm open to remote engineering roles where I can build useful products with a thoughtful team.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-**AI**
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-</p>
-
----
-
-## 🚀 Things I've built
-
-### [LITOL](https://github.com/Cnerd-Mahadi/litol_app) &nbsp;·&nbsp; [🌐](https://litol.vercel.app)
-
-An AI study platform used by 60+ students. You write notes with recall cues and get quizzes generated from your own material. Cues are embedded into pgvector and pulled back by similarity search, so the model asks about what you actually wrote instead of what it happens to know.
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `pgvector` `Vercel AI SDK` `Gemini` `Bun`
-
-### [BeatRos](https://github.com/Cnerd-Mahadi/BeatRos) &nbsp;·&nbsp; [🌐](https://beatros.vercel.app)
-
-A microservices e-commerce platform. Four services behind an API gateway, Stripe checkout with webhook verification, and guest carts that survive across sessions. Stock release and confirmation emails run as background jobs, so checkout stays fast.
-
-`Next.js` `Express` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Stripe` `Docker`
-
----
-
-<p align="center">
-  Open to remote roles. Happy to talk about anything above.
-</p>
+Have something interesting in mind? [Say hello](mailto:mahadidroid@gmail.com).
