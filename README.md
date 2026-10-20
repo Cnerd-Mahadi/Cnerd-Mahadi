@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg?v=20261020-color2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg?v=20261020-color2">
-  <img src="assets/profile-header-light.svg?v=20261020-color2" alt="Cnerd — hey, it’s me" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-color2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-color2-light.svg">
+  <img src="assets/profile-header-color2-light.svg" alt="Cnerd — hey, it’s me" width="1000">
 </picture>
 
 # Hey, I’m Mahadi
