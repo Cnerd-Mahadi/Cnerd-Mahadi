@@ -1,0 +1,58 @@
+{
+  "email": {
+    "id": "873360",
+    "author": "justicon",
+    "name": "Email",
+    "url": "https://www.flaticon.com/free-icon/email_873360",
+    "img": "https://cdn-icons-png.flaticon.com/512/873/873360.png"
+  },
+  "resume": {
+    "id": "9386860",
+    "author": "Md Tanvirul Haque",
+    "name": "User profile",
+    "file": "resume-profile.png",
+    "url": "https://www.flaticon.com/free-icon/user-profile_9386860",
+    "img": "https://cdn-icons-png.flaticon.com/512/9386/9386860.png"
+  },
+  "location": {
+    "id": "684908",
+    "author": "Magnific",
+    "name": "Placeholder",
+    "url": "https://www.flaticon.com/free-icon/placeholder_684908",
+    "img": "https://cdn-icons-png.flaticon.com/512/684/684908.png"
+  },
+  "website": {
+    "id": "10453141",
+    "author": "riajulislam",
+    "name": "Internet",
+    "file": "website-window.png",
+    "url": "https://www.flaticon.com/free-icon/internet_10453141",
+    "img": "https://cdn-icons-png.flaticon.com/512/10453/10453141.png"
+  },
+  "brain": {
+    "id": "11603810",
+    "author": "Magnific",
+    "name": "Brain",
+    "file": "brain-red.png",
+    "url": "https://www.flaticon.com/free-icon/brain_11603810",
+    "img": "https://cdn-icons-png.flaticon.com/512/11603/11603810.png"
+  },
+  "sparkle": {
+    "id": "17908067",
+    "author": "sonnycandra",
+    "name": "Sparkle",
+    "file": "sparkle.png",
+    "url": "https://www.flaticon.com/free-icon/sparkle_17908067",
+    "img": "https://cdn-icons-png.flaticon.com/512/17908/17908067.png",
+    "displaySize": 14
+  },
+  "linkedin": {
+    "id": "3991775",
+    "author": "Fathema Khanom",
+    "name": "LinkedIn",
+    "file": "linkedin.png",
+    "url": "https://www.flaticon.com/free-icon/linkedin_3991775",
+    "img": "https://cdn-icons-png.flaticon.com/512/3991/3991775.png",
+    "license": "Flaticon Editorial License; attribution required"
+  }
+}
