@@ -1,4 +1,4 @@
-<img src="assets/profile-banner-approved-dark.png" alt="Cnerd — SaaS, B2B workflows and AI; from schema to screen" width="1000">
+<img src="assets/profile-banner-balanced-dark.png" alt="Cnerd — SaaS, B2B workflows and AI; from schema to screen" width="1000">
 
 # Hey, I’m Mahadi
 
@@ -37,14 +37,17 @@ Built a personal commerce app with saved carts, Stripe checkout, and inventory m
 
 ## Tools I use
 
-**Web:** TypeScript · React · Next.js · Remix · Tailwind CSS<br>
-**Backend:** Node.js · Express · Prisma · PostgreSQL · Redis<br>
-**AI:** Gemini · Vercel AI SDK · pgvector · RAG<br>
-**Delivery:** Docker · GitHub Actions · BullMQ · QStash
+| Area | Tools |
+| --- | --- |
+| **Web** | TypeScript · React · Next.js · Remix · Tailwind CSS |
+| **Backend** | Node.js · Express · Prisma · PostgreSQL · Redis |
+| **AI** | Gemini · Vercel AI SDK · pgvector · RAG |
+| **Delivery** | Docker · GitHub Actions · BullMQ · QStash |
 
 ## Let’s connect
 
 Open to remote engineering roles. [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/uicons/link-contact-dark.svg"><img src="assets/icons/uicons/link-contact-light.svg" width="131" height="26" alt="Drop me a line" align="absmiddle"></picture>](mailto:mahadidroid@gmail.com).
 
+## Icon credits
 
 <sub>Icons by [Fathema Khanom](https://www.flaticon.com/authors/fathema-khanom), [justicon](https://www.flaticon.com/authors/justicon), [Magnific](https://www.flaticon.com/authors/magnific), [riajulislam](https://www.flaticon.com/authors/riajulislam), [sonnycandra](https://www.flaticon.com/authors/sonnycandra) and [Md Tanvirul Haque](https://www.flaticon.com/authors/md-tanvirul-haque) via Flaticon. [Asset sources](FLATICON-SOURCES.md).</sub>

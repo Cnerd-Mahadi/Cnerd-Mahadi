@@ -26,6 +26,6 @@ The Source links use the unmodified black and white Invertocat artwork from the 
 
 ## Banner
 
-`assets/profile-banner-approved-dark.png` is the approved AI-generated engineering drawing from the README design process: a black dotted canvas, muted emerald C/d letters, and a data-to-logic-to-interface diagram. The approved artwork is used without cropping, recoloring or regeneration.
+`assets/profile-banner-balanced-dark.png` is the approved refinement of the AI-generated engineering drawing: a black dotted canvas, muted emerald C/d letters, and a data-to-logic-to-interface diagram. The artwork has been scaled down within the same 2172 × 724 canvas to add surrounding space, then enlarged slightly from the first spacing preview. Wording, colors and the diagram concept are preserved.
 
 The earlier banner and icon files remain in the repository with their original license records.
